@@ -5,5 +5,5 @@
 - 🔭 I’m currently working towards completing a software engineering degree and completing my portfolio for my EPA.
 - 🌱 I’m currently learning how to programme the correct way.
 - 🤔 I’m looking for help with the fundamentals of programming.
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: My immediate family are from 5 different continents.
 
